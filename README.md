@@ -4,7 +4,7 @@
 
 | | | | | | | |
 
-|n|o|-|-|n|-|
+|n|o|-|i|n|-|
 
 |1|2|3|4|5|6|
 
@@ -56,3 +56,6 @@ res7: Yes, that's right
 
 
 req8: i
+
+
+res8: Yes, that's right
