@@ -41,3 +41,6 @@ req5: R
 
 
 res5: Nee, helaas
+
+
+req6: M
