@@ -9,7 +9,7 @@
 |1|2|3|4|5|6|
 
 ## Score
-![gallow](./images/4.png)
+![gallow](./images/5.png)
 
 ## Beurten
 
@@ -38,3 +38,6 @@ res4: Nee, helaas
 
 
 req5: R
+
+
+res5: Nee, helaas
