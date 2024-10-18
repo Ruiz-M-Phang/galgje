@@ -4,7 +4,7 @@
 
 | | | | | | | |
 
-|n|o|-|i|n|-|
+|n|o|k|i|n|g|
 
 |1|2|3|4|5|6|
 
@@ -62,3 +62,6 @@ res8: Yes, that's right
 
 
 req9: K G
+
+
+res9: Yes, that's right
